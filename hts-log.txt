@@ -1,0 +1,45 @@
+HTTrack3.49-2+htsswf+htsjava launched on Tue, 17 Sep 2024 11:29:06 at https://klariselaundry.co.id/?gad_source=1&gclid=CjwKCAjwreW2BhBhEiwAavLwfI1k7c2IruQCRaH3x4bhr-fFyI3fo2h_cYdzotHQRiZn4yh796SzQhoCIGUQAvD_BwE +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://klariselaundry.co.id/?gad_source=1&gclid=CjwKCAjwreW2BhBhEiwAavLwfI1k7c2IruQCRaH3x4bhr-fFyI3fo2h_cYdzotHQRiZn4yh796SzQhoCIGUQAvD_BwE -O1 "C:\My Web Sites\rancak-laundry-web2" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+11:31:10	Error: 	"Forbidden" (403) at link https://klariselaundry.co.id/xmlrpc.php?rsd (from https://klariselaundry.co.id/?gad_source=1&gclid=CjwKCAjwreW2BhBhEiwAavLwfI1k7c2IruQCRaH3x4bhr-fFyI3fo2h_cYdzotHQRiZn4yh796SzQhoCIGUQAvD_BwE)
+11:31:10	Error: 	"Bad Request" (400) at link https://www.googletagmanager.com/gtm.js?id= (from https://klariselaundry.co.id/?gad_source=1&gclid=CjwKCAjwreW2BhBhEiwAavLwfI1k7c2IruQCRaH3x4bhr-fFyI3fo2h_cYdzotHQRiZn4yh796SzQhoCIGUQAvD_BwE)
+11:32:12	Error: 	"Not Found" (404) at link https://klariselaundry.co.id/wp-content/themes/busia/assets/images/heart-woocommerce.svg (from https://klariselaundry.co.id/wp-content/themes/busia/assets/css/busia-custom.css?ver=1726027049)
+11:32:12	Error: 	"Not Found" (404) at link https://klariselaundry.co.id/wp-content/themes/busia/assets/images/eye-woocommerce.svg (from https://klariselaundry.co.id/wp-content/themes/busia/assets/css/busia-custom.css?ver=1726027049)
+11:32:12	Error: 	"Not Found" (404) at link https://klariselaundry.co.id/wp-content/themes/busia/assets/images/heart-woocommerce-white.svg (from https://klariselaundry.co.id/wp-content/themes/busia/assets/css/busia-custom.css?ver=1726027049)
+11:32:12	Error: 	"Not Found" (404) at link https://klariselaundry.co.id/wp-content/themes/busia/assets/images/eye-woocommerce-white.svg (from https://klariselaundry.co.id/wp-content/themes/busia/assets/css/busia-custom.css?ver=1726027049)
+11:32:12	Error: 	"Not Found" (404) at link https://klariselaundry.co.id/wp-content/themes/busia/assets/images/shopping-bag-woocommerce-white.svg (from https://klariselaundry.co.id/wp-content/themes/busia/assets/css/busia-custom.css?ver=1726027049)
+11:32:12	Error: 	"Not Found" (404) at link https://klariselaundry.co.id/wp-content/themes/busia/assets/images/shopping-bag-woocommerce.svg (from https://klariselaundry.co.id/wp-content/themes/busia/assets/css/busia-custom.css?ver=1726027049)
+11:32:12	Error: 	"Not Found" (404) at link https://klariselaundry.co.id/wp-content/themes/busia/assets/images/tick.png (from https://klariselaundry.co.id/wp-content/themes/busia/assets/css/busia-custom.css?ver=1726027049)
+11:32:13	Warning: 	Moved Permanently for https://klariselaundry.co.id/?p=141
+11:32:13	Warning: 	File has moved from https://klariselaundry.co.id/?p=141 to https://klariselaundry.co.id/about/
+11:32:13	Error: 	"Not Found" (404) at link https://klariselaundry.co.id/about/https:/klariselaundry.co.id/wp-content/uploads/2024/06/paxi.png (from https://klariselaundry.co.id/about/)
+11:32:13	Error: 	"Not Found" (404) at link https://klariselaundry.co.id/about/https:/klariselaundry.co.id/wp-content/uploads/2024/06/Serene.jpg (from https://klariselaundry.co.id/about/)
+11:32:13	Error: 	"Not Found" (404) at link https://klariselaundry.co.id/about/https:/klariselaundry.co.id/wp-content/uploads/2024/06/urabnview.png (from https://klariselaundry.co.id/about/)
+11:32:13	Error: 	"Not Found" (404) at link https://klariselaundry.co.id/about/https:/klariselaundry.co.id/wp-content/uploads/2024/06/Jessica-Beauty-Klinik.jpeg (from https://klariselaundry.co.id/about/)
+11:32:13	Error: 	"Not Found" (404) at link https://klariselaundry.co.id/about/https:/klariselaundry.co.id/wp-content/uploads/2024/06/PAxi1.png (from https://klariselaundry.co.id/about/)
+11:32:13	Error: 	"Not Found" (404) at link https://klariselaundry.co.id/about/https:/klariselaundry.co.id/wp-content/uploads/2024/06/yi-tiao-xian.png (from https://klariselaundry.co.id/about/)
+11:32:13	Error: 	"Not Found" (404) at link https://klariselaundry.co.id/about/https:/klariselaundry.co.id/wp-content/uploads/2024/06/pop-my-nail.png (from https://klariselaundry.co.id/about/)
+11:32:13	Error: 	"Not Found" (404) at link https://klariselaundry.co.id/about/https:/klariselaundry.co.id/wp-content/uploads/2024/06/fivestar.png (from https://klariselaundry.co.id/about/)
+11:32:13	Error: 	"Not Found" (404) at link https://klariselaundry.co.id/about/https:/klariselaundry.co.id/wp-content/uploads/2024/06/bamboo.png (from https://klariselaundry.co.id/about/)
+11:32:14	Warning: 	Moved Permanently for https://klariselaundry.co.id/?p=631
+11:32:14	Warning: 	File has moved from https://klariselaundry.co.id/?p=631 to https://klariselaundry.co.id/layanan-cuci-kering-setrika/
+11:32:15	Warning: 	Moved Permanently for https://klariselaundry.co.id/?p=673
+11:32:15	Warning: 	File has moved from https://klariselaundry.co.id/?p=673 to https://klariselaundry.co.id/layanan-cuci-kering-lipat/
+11:32:16	Warning: 	Moved Permanently for https://klariselaundry.co.id/?p=691
+11:32:16	Warning: 	File has moved from https://klariselaundry.co.id/?p=691 to https://klariselaundry.co.id/layanan-setrika-only/
+11:32:16	Warning: 	Moved Permanently for https://klariselaundry.co.id/?p=168
+11:32:16	Warning: 	File has moved from https://klariselaundry.co.id/?p=168 to https://klariselaundry.co.id/service/
+11:32:16	Warning: 	Moved Permanently for https://klariselaundry.co.id/?p=174
+11:32:16	Warning: 	File has moved from https://klariselaundry.co.id/?p=174 to https://klariselaundry.co.id/contact/
+11:32:16	Warning: 	Moved Permanently for https://klariselaundry.co.id/?p=267
+11:32:16	Warning: 	File has moved from https://klariselaundry.co.id/?p=267 to https://klariselaundry.co.id/privacy-policy/
+11:32:17	Warning: 	Moved Permanently for https://klariselaundry.co.id/?p=593
+11:32:17	Warning: 	File has moved from https://klariselaundry.co.id/?p=593 to https://klariselaundry.co.id/term-of-services/
+
+HTTrack Website Copier/3.49-2 mirror complete in 3 minutes 11 seconds : 367 links scanned, 340 files written (31592372 bytes overall) [11119785 bytes received at 58218 bytes/sec], 28437032 bytes transferred using HTTP compression in 298 files, ratio 21%, 14.5 requests per connection
+(18 errors, 16 warnings, 0 messages)
